@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RangeDiffTestingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RangeDiffTestingApplication.class, args);
+		       SpringApplication.run(RangeDiffTestingApplication.class, args);
 	}
 
 }
